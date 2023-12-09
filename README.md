@@ -3,9 +3,6 @@
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeslv1&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeslv1&hide_progress=true&theme=transparent)
 
-
-'''[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pfelipe.15)'''
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
