@@ -1,4 +1,4 @@
-<p align="center">Hello! My name is Felipe Silva! <br><br> I am currently majoring in Information Systems. The area in which I see myself most is programming. and this is what becomes my current focus.</strong> Always looking for constant evolution, studies, new projects and challenges. <strong>Junior Developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Hello! My name is Felipe Silva! <br><br> I am currently majoring in Information Systems. The area in which I see myself most is programming. And this is what becomes my current focus.</strong> Always looking for constant evolution, studies, new projects and challenges. <strong>Junior Developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=felipeslv1&theme=radical&mode=weekly" />
